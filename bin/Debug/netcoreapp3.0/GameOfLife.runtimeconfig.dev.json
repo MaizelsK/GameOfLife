@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Deadpool\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Deadpool\\.nuget\\packages"
+    ]
+  }
+}
