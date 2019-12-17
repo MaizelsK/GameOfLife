@@ -8,24 +8,30 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Deadpool\\.nuget\\packages\\": {}
+    "C:\\Users\\MAIZELS\\.nuget\\packages\\": {},
+    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\GameOfLife\\GameOfLife.csproj",
+      "projectUniqueName": "F:\\Visual Studio Projects\\GameOfLife\\GameOfLife.csproj",
       "projectName": "GameOfLife",
-      "projectPath": "D:\\Coding\\GameOfLife\\GameOfLife.csproj",
-      "packagesPath": "C:\\Users\\Deadpool\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\GameOfLife\\obj\\",
+      "projectPath": "F:\\Visual Studio Projects\\GameOfLife\\GameOfLife.csproj",
+      "packagesPath": "C:\\Users\\MAIZELS\\.nuget\\packages\\",
+      "outputPath": "F:\\Visual Studio Projects\\GameOfLife\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Deadpool\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MAIZELS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100-preview8-013656\\RuntimeIdentifierGraph.json"
       }
     }
   }
